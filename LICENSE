@@ -1,3 +1,27 @@
+
+================================================================================
+
+The files in the `libraries` directory are covered by the **Google APIs Terms of
+Service** at
+[https://developers.google.com/terms/](https://developers.google.com/terms/)
+
+================================================================================
+
+The files in the `samples` directory are licensed under the Apache License,
+Version 2.0 LICENSE file in that directory.
+
+================================================================================
+====================
+Open Source Licenses
+====================
+
+This software may use portions of the following libraries subject to the 
+accompanying licenses:
+
+*******************************************************************
+Android Annotations Support Library
+*******************************************************************
+
    Copyright (c) 2016, Google Inc.
 
    Licensed under the Apache License, Version 2.0 (the "License");
